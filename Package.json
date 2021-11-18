@@ -1,0 +1,12 @@
+{
+  "nombre": "Bot1.0",
+  "versión":" 1.0.0", 
+  "descripción": "" ,
+  "main": "Nanego.js",
+  "scripts": {
+  "start": "Nanego.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.4.1"
+  }
+}
